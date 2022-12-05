@@ -1,2 +1,3 @@
-# multinomial_naive_bayes_from_scratch
-Multinomial Naive Bayes from scratch
+# Multinomial Naive Bayes from scratch
+
+Inputs a .csv file with n columns were [0,n)th columns are features and nth column is the label.
